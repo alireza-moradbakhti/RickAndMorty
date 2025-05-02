@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">RickAndMorty</string>
+    <string name="name">%s </string>
+    <string name="species">Species: %s </string>
+    <string name="status">Status: %s </string>
+    <string name="number_of_episodes">Number of episodes: %s </string>
+    <string name="gender">Gender: %s </string>
+    <string name="origin_location_name">Origin location: %s </string>
+    <string name="last_known_location_name">Last known location: %s </string>
+    <string name="error_has_occurred">Error has occurred</string>
+    <string name="content_description_profile_image">Profile image</string>
+    <string name="search_character">Search…</string>
+    <string name="search">Search</string>
+    <string name="bottom_sheet_status">Status</string>
+    <string name="bottom_sheet_alive">Alive</string>
+    <string name="bottom_sheet_dead">Dead</string>
+    <string name="bottom_sheet_unknown">Unknown</string>
+    <string name="bottom_sheet_gender">Gender</string>
+    <string name="bottom_sheet_female">Female</string>
+    <string name="bottom_sheet_male">Male</string>
+    <string name="bottom_sheet_genderless">Genderless</string>
+    <string name="bottom_sheet_apply">Apply</string>
+    <string name="connection_error">Network Connection Required</string>
+</resources>
